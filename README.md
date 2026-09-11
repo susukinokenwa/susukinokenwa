@@ -1,5 +1,6 @@
-## Hi there 👋
-
+## Hi there! My name is Skyler
+Pronouns: She/Her
+Fun Fact: I play an instrument called Guzheng
 <!--
 **susukinokenwa/susukinokenwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
